@@ -25,7 +25,7 @@
                    "Brittany, France 2019 Fully Loaded Cycle Tour"
             ],
             "date_published": "2026-02-20T23:44:14+00:00",
-            "date_modified": "2026-02-20T23:44:14+00:00"
+            "date_modified": "2026-02-21T01:22:09+00:00"
         },
         {
             "id": "https://CarnabySnaps.github.io/travel-photography-cycle-touring/day-three-pont-benoit-to-taden-or-france-fully-loaded-cycle-tour-2019/",
@@ -43,7 +43,7 @@
                    "Brittany, France 2019 Fully Loaded Cycle Tour"
             ],
             "date_published": "2026-02-20T23:36:52+00:00",
-            "date_modified": "2026-02-20T23:36:52+00:00"
+            "date_modified": "2026-02-21T01:21:58+00:00"
         },
         {
             "id": "https://CarnabySnaps.github.io/travel-photography-cycle-touring/day-two-saint-malo-to-mont-saint-michel-or-france-fully-loaded-cycle-tour-2019/",
@@ -62,7 +62,7 @@
                    "Brittany"
             ],
             "date_published": "2026-02-20T23:32:01+00:00",
-            "date_modified": "2026-02-20T23:32:01+00:00"
+            "date_modified": "2026-02-21T01:21:36+00:00"
         },
         {
             "id": "https://CarnabySnaps.github.io/travel-photography-cycle-touring/day-one-portsmouth-to-saint-malo-inc-video-or-france-fully-loaded-cycle-tour-2019/",
@@ -82,7 +82,7 @@
                    "Brittany"
             ],
             "date_published": "2026-02-20T22:50:01+00:00",
-            "date_modified": "2026-02-20T22:50:01+00:00"
+            "date_modified": "2026-02-21T01:21:06+00:00"
         },
         {
             "id": "https://CarnabySnaps.github.io/travel-photography-cycle-touring/south-wales-fully-loaded-cycle-tour-2019-aberdulais-to-cardiff-via-barry/",
@@ -95,6 +95,7 @@
                 "name": "Mark Carnaby"
             },
             "tags": [
+                   "South Wales Fully Loaded Cycle Tour 2019",
                    "South Wales",
                    "Pembrokeshire Coastline",
                    "Cardiff",
@@ -102,7 +103,7 @@
                    "Aberdulais"
             ],
             "date_published": "2026-02-20T22:34:33+00:00",
-            "date_modified": "2026-02-20T22:34:33+00:00"
+            "date_modified": "2026-02-21T01:20:52+00:00"
         },
         {
             "id": "https://CarnabySnaps.github.io/travel-photography-cycle-touring/south-wales-fully-loaded-cycle-tour-2019-laugharne-to-aberdulais-via-ferryside-and-gowerton/",
@@ -116,6 +117,7 @@
             },
             "tags": [
                    "Swansea",
+                   "South Wales Fully Loaded Cycle Tour 2019",
                    "South Wales",
                    "Pembrokeshire Coastline",
                    "Mumbles",
@@ -124,7 +126,7 @@
                    "Aberdulais"
             ],
             "date_published": "2026-02-20T22:31:02+00:00",
-            "date_modified": "2026-02-20T22:31:02+00:00"
+            "date_modified": "2026-02-21T01:20:34+00:00"
         },
         {
             "id": "https://CarnabySnaps.github.io/travel-photography-cycle-touring/south-wales-fully-loaded-cycle-tour-2019-broad-haven-to-laugharne-via-pembroke/",
@@ -138,13 +140,14 @@
             },
             "tags": [
                    "Tenby",
+                   "South Wales Fully Loaded Cycle Tour 2019",
                    "South Wales",
                    "Pembrokeshire Coastline",
                    "Laugharne",
                    "Broad Haven"
             ],
             "date_published": "2026-02-20T22:26:25+00:00",
-            "date_modified": "2026-02-20T22:26:25+00:00"
+            "date_modified": "2026-02-21T01:20:16+00:00"
         },
         {
             "id": "https://CarnabySnaps.github.io/travel-photography-cycle-touring/south-wales-fully-loaded-cycle-tour-2019-st-davids-to-broad-haven/",
@@ -158,12 +161,13 @@
             },
             "tags": [
                    "St Davids",
+                   "South Wales Fully Loaded Cycle Tour 2019",
                    "South Wales",
                    "Pembrokeshire Coastline",
                    "Broad Haven"
             ],
             "date_published": "2026-02-20T22:22:04+00:00",
-            "date_modified": "2026-02-20T22:22:04+00:00"
+            "date_modified": "2026-02-21T01:19:55+00:00"
         },
         {
             "id": "https://CarnabySnaps.github.io/travel-photography-cycle-touring/south-wales-fully-loaded-cycle-tour-2019-fishguard-to-st-davids-inc-video/",
@@ -176,12 +180,13 @@
                 "name": "Mark Carnaby"
             },
             "tags": [
+                   "South Wales Fully Loaded Cycle Tour 2019",
                    "South Wales",
                    "Pembrokeshire Coastline",
                    " Fishguard"
             ],
             "date_published": "2026-02-20T22:07:13+00:00",
-            "date_modified": "2026-02-20T22:22:24+00:00"
+            "date_modified": "2026-02-21T01:19:34+00:00"
         },
         {
             "id": "https://CarnabySnaps.github.io/travel-photography-cycle-touring/south-devon-cycle-touring-trip-2018-torquay-and-brixham/",
@@ -195,12 +200,13 @@
             },
             "tags": [
                    "Torquay",
+                   "South Devon Cycle Touring Trip 2018",
                    "South Devon",
                    "Paignton",
                    "Brixham"
             ],
             "date_published": "2026-02-20T00:03:48+00:00",
-            "date_modified": "2026-02-20T00:03:48+00:00"
+            "date_modified": "2026-02-21T01:19:01+00:00"
         }
     ]
 }
